@@ -1,5 +1,7 @@
 Mini-Projeto - Análise de Dados com Python T4- Talita Iara dos Santos
 
+Link do GIT: https://github.com/talita-iara/Miniprojeto_TalitaIaraDosSantos_Analise_Dados_T4
+
 Sobre o projeto:
 Este projeto foi desenvolvido como atividade do curso de Análise de Dados com Python.
 O objetivo foi realizar uma análise de uma base de dados de varejo, identificando possíveis problemas nos dados, realizando a limpeza da base e utilizando algumas análises estatísticas e gráficos para entender melhor as informações.
