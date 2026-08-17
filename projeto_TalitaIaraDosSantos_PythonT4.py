@@ -93,6 +93,11 @@ def verificar_dados():
 # Verificação das datas depois da conversão
     print("\nDatas inválidas após a limpeza:",
           df["DATA"].isnull().sum())
+# Verificar o identificador das compras
+    if df["CO_ID"].isnull().sum() > 0:
+        print("\nExistem compras sem identificador.")
+    else:
+        print("\nTodas as compras possuem identificador.")
 
 # Estatísticas do número de filhos
 def estatisticas_filhos():
