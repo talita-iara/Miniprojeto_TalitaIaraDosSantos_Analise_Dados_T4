@@ -90,7 +90,7 @@ def verificar_dados():
     print("\nCategorias após o tratamento:")
     print(df["PR_CAT"].value_counts(dropna=False))
 
-    # Verificação das datas depois da conversão
+# Verificação das datas depois da conversão
     print("\nDatas inválidas após a limpeza:",
           df["DATA"].isnull().sum())
 
@@ -275,7 +275,6 @@ def grafico_produtos():
 
 
 #Conclusões
-
 def conclusoes():
 
     compras_genero = (

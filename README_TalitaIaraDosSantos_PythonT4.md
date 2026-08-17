@@ -1,4 +1,4 @@
-Mini-Projeto - Análise de Dados com Python - Talita Iara dos Santos
+Mini-Projeto - Análise de Dados com Python T4- Talita Iara dos Santos
 
 Sobre o projeto:
 Este projeto foi desenvolvido como atividade do curso de Análise de Dados com Python.
